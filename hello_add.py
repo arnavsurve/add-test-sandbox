@@ -19,8 +19,8 @@ def fibonacci(n):
 
 
 def main():
-    """Print the Fibonacci sequence up to 50 numbers."""
-    fibonacci(50)
+    """Print the Fibonacci sequence up to 100 numbers."""
+    fibonacci(100)
 
 
 if __name__ == "__main__":
